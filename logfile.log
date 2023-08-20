@@ -1,0 +1,59 @@
+2022-05-19 12:14:32,082 INFO  [log] Invalid Email Id 
+2022-05-19 12:24:17,227 INFO  [log] Invalid Email Id 
+2022-05-19 13:28:13,040 INFO  [log] Signed In and Signed Out Successfully 
+2022-05-19 13:36:31,306 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-05-19 13:36:37,432 INFO  [log] Testcase 3 Product is selected 
+2022-05-19 13:36:47,651 INFO  [log] Testcase 4 Product ius added to cart 
+2022-05-19 13:36:55,063 INFO  [log] Testcase 5 Filter Functionality Completed 
+2022-05-19 13:37:02,452 INFO  [log] Testcase 6 Product is proceeded to checkout from cart 
+2022-05-19 13:37:04,545 INFO  [log] Testcase 7 sign In button is visible 
+2022-05-19 13:37:06,305 INFO  [log] Testcase 8 sign In button is enabled 
+2022-05-19 13:39:40,945 INFO  [log] Testcase 1 Signed In and Signed Out Successfully 
+2022-05-19 13:39:44,837 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-05-19 13:39:49,238 INFO  [log] Testcase 3 Product is selected 
+2022-05-19 13:39:57,909 INFO  [log] Testcase 4 Product ius added to cart 
+2022-05-19 13:40:04,907 INFO  [log] Testcase 5 Filter Functionality Completed 
+2022-05-19 13:40:08,608 INFO  [log] Testcase 6 Product is proceeded to checkout from cart 
+2022-05-19 13:40:09,864 INFO  [log] Testcase 7 sign In button is visible 
+2022-05-19 13:40:10,790 INFO  [log] Testcase 8 sign In button is enabled 
+2022-05-19 13:40:12,478 INFO  [log] Testcase 9 Email text field is visible 
+2022-05-19 13:40:14,895 INFO  [log] Testcase 10 Password text field is visible 
+2022-05-19 13:40:17,142 INFO  [log] Invalid Email Id 
+2022-05-19 13:55:44,654 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-05-19 13:56:51,434 INFO  [log] Testcase 1 Signed In and Signed Out Successfully 
+2022-05-19 13:56:55,560 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-05-19 13:57:00,112 INFO  [log] Testcase 3 Product is selected 
+2022-05-19 13:57:08,912 INFO  [log] Testcase 4 Product ius added to cart 
+2022-05-19 13:57:16,220 INFO  [log] Testcase 5 Filter Functionality Completed 
+2022-05-19 13:57:21,901 INFO  [log] Testcase 6 Product is proceeded to checkout from cart 
+2022-05-19 13:57:23,734 INFO  [log] Testcase 7 sign In button is visible 
+2022-05-19 13:57:24,964 INFO  [log] Testcase 8 sign In button is enabled 
+2022-05-19 13:57:27,417 INFO  [log] Testcase 9 Email text field is visible 
+2022-05-19 13:57:30,656 INFO  [log] Testcase 10 Password text field is visible 
+2022-05-19 13:57:33,525 INFO  [log] Testcase 11 Invalid Email Id 
+2022-05-19 14:00:32,571 INFO  [log] Testcase 11 Invalid Email Id 
+2022-05-19 14:00:58,799 INFO  [log]  Testcase 12 Product is not displayed in cart 
+2022-05-19 14:02:16,110 INFO  [log] Testcase 1 Signed In and Signed Out Successfully 
+2022-05-19 14:02:22,299 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-05-19 14:02:33,330 INFO  [log] Testcase 3 Product is selected 
+2022-05-19 14:02:43,344 INFO  [log] Testcase 4 Product is added to cart 
+2022-05-19 14:02:51,645 INFO  [log] Testcase 5 Filter Functionality Completed 
+2022-05-19 14:02:57,047 INFO  [log] Testcase 6 Product is proceeded to checkout from cart 
+2022-05-19 14:02:59,210 INFO  [log] Testcase 7 sign In button is visible 
+2022-05-19 14:03:00,734 INFO  [log] Testcase 8 sign In button is enabled 
+2022-05-19 14:03:02,764 INFO  [log] Testcase 9 Email text field is visible 
+2022-05-19 14:03:06,067 INFO  [log] Testcase 10 Password text field is visible 
+2022-05-19 14:03:09,624 INFO  [log] Testcase 11 Invalid Email Id 
+2022-05-19 14:03:45,733 INFO  [log]  Testcase 12 Product is not displayed in cart 
+2022-07-03 19:25:28,261 INFO  [log] Testcase 1 Signed In and Signed Out Successfully 
+2022-07-03 19:25:45,624 INFO  [log] Testcase 7 sign In button is visible 
+2022-07-03 19:25:49,743 INFO  [log] Testcase 9 Email text field is visible 
+2022-07-03 20:44:50,365 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-07-03 20:44:56,475 INFO  [log] Testcase 3 Product is selected 
+2022-07-03 20:49:04,517 INFO  [log] Testcase 11 Invalid Email Id 
+2022-07-03 20:49:12,274 INFO  [log]  Testcase 12 Product is not displayed in cart 
+2022-07-03 21:18:51,844 INFO  [log] Testcase 11 Invalid Email Id 
+2022-07-03 21:20:35,314 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-07-03 21:23:05,222 INFO  [log] Testcase 1 Signed In and Signed Out Successfully 
+2022-07-03 21:23:10,580 INFO  [log] Testcase 2 Sorting Functionality Completed 
+2022-07-03 21:23:32,762 INFO  [log] Testcase 8 sign In button is enabled 
